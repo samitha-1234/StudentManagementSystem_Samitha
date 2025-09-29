@@ -1,6 +1,7 @@
 # Student Management System 👩‍🎓👨‍🎓
 
-A basic Java project that allows you to manage student records using Object-Oriented Programming concepts. This was created as a beginner-level Java project to showcase understanding of classes, methods, arrays, and basic logic.
+A basic Java project that allows you to manage student records using Object-Oriented Programming concepts. 
+<br>This was created as a beginner-level Java project to showcase understanding of classes, methods, arrays, and basic logic.
 
 ## 💻 Features
 - Add a new student
