@@ -1,6 +1,6 @@
 # Student Management System 👩‍🎓👨‍🎓
 
-A basic Java project that allows you to manage student records using Object-Oriented Programming concepts. 
+A Java project that allows you to manage student records using Object-Oriented Programming concepts. 
 <br>This was created as a beginner-level Java project to showcase understanding of classes, methods, arrays, and basic logic.
 
 ## 💻 Features
@@ -20,7 +20,7 @@ StudentManagementSystem_Samitha/
 │ └── StudentManagementSystem.java
 ├── README.md
 ├── .gitignore
-└── LICENSE
+└── LICENSE 
 
 ## 🚀 How to Run
 1. Open the project in any Java IDE (like IntelliJ or Eclipse)
@@ -29,8 +29,9 @@ StudentManagementSystem_Samitha/
 
 ## 📸 Screenshots
 ✅ Terminal Output After Running
-<pre> Student Management System ------------------------- 1. Add Student 2. Remove Student 3. Display Students 4. Exit Enter your choice: 1 Enter student's name: Alice Enter roll number: 101 Enter grade: A Student added successfully! ------------------------- 1. Add Student 2. Remove Student 3. Display Students 4. Exit Enter your choice: 3 List of Students: Name: Alice, Roll Number: 101, Grade: A </pre>
-Added terminal output to screenshots
+<pre> Student Management System ------------------------- 1. Add Student 2. Remove Student 3. Display Students 4. Exit Enter your choice: 1 Enter student's name: Alice Enter roll number: 101 Enter grade: A Student added successfully! ------------------------- <br>
+1. Add Student 2. Remove Student 3. Display Students 4. Exit Enter your choice: 3 List of Students: Name: Alice, Roll Number: 101, Grade: A </pre>
+Added terminal output to screenshot
 
 
 ## 🧑‍💻 Author
